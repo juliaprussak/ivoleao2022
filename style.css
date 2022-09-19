@@ -10,13 +10,5 @@
     }
 </style>
 <body>
-    <div>
-        <p>This is the parent div which contains the div we are testing</p>
-        <!--Tradução: Essa é a div pai, que contém a div que estamos testando-->
-        <div>
-            <p>This example shows that changing the background color of a div does not affect the border and margin of the div.</p>
-            <!--Tradução: Esse exemplo mostra que alterar a cor de fundo de uma div não altera a borda e a margem da div.-->
-        </div>
-    </div>
-</body>
 <font size="+3">Font size ="+3"</font><br/>
+</body>
