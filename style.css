@@ -1,14 +1,7 @@
-body {
-    backgrond: #CCCCCC
-}
-h1 {
-   text-align: center;
-}
-
-#missao {
-    font-size: 20px
-}
-
-em strong {
-    color:#FF∅∅∅∅
+p {
+    backgrond-color
+    color:Orange
+    padding:10px
+    font-family:arial
+Helvetica,sans-serif
 }
