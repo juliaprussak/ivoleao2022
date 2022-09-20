@@ -35,7 +35,7 @@ body {
 
 .beneficios {
     background: #FFFFFF;
-    padding: 20px;
+    padding: 30px;
 }
 
 h2 {
@@ -44,7 +44,7 @@ h2 {
 ul {
     display: inline-block;
     vertical-align: top;
-    width: 20%;
+    width: 30%;
     margin-right: 15%;
 }
 .imagembeneficios {
