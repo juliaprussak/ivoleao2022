@@ -1,12 +1,12 @@
-<style>
-    body {
-        background-color: #ABBAEA;
-    }
-    div {
-        height: 200px;
-        margin: 20px;
-        border: 5px solid;
-        background-color: #FBD603;
-    }
-</style>
-<body>
+body {
+    background: #CCCCCC
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+
