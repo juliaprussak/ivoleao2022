@@ -6,7 +6,7 @@ body {
     width: 200%;
 }
 
-h1 {
+h3 {
     text-align: center
 }
 
@@ -27,7 +27,7 @@ body {
 
 .principal{
     background: #CCCCCC;
-    padding: 30px;
+    padding: 50px;
 }
 .itens {
     font-style: italic;
@@ -35,7 +35,7 @@ body {
 
 .beneficios {
     background: #FFFFFF;
-    padding: 25px;
+    padding: 40px;
 }
 
 h1 {
