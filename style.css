@@ -26,3 +26,10 @@ em strong {
 #beneficios{
     text-align: center;
 }
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
