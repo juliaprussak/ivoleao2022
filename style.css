@@ -1,6 +1,6 @@
 
 .body {
-    background: #CCCCCC
+    background: ##FFEFD5
 }
 
 #banner {
@@ -16,7 +16,7 @@ p {
 }
 
 #missao {
-    font-size: 20px
+    font-size: 25px
 }
 
 em strong {
@@ -36,7 +36,7 @@ body {
 
 .beneficios {
     background: #FFFFFF;
-    padding: 20px;
+    padding: 25px;
 }
 
 h2 {
