@@ -2,6 +2,11 @@ body {
     background: rgb(236, 68, 68);
 }
 
+#banner {
+    width: 100%;
+    height: 450px;
+}
+
 p {
     font-size: 25px
 }
