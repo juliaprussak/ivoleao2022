@@ -7,8 +7,11 @@ body {
 }
 
 p {
+    text-align: center;
+    font-size: 25px;
     font-size: 25px;
 }
+
 h1 {
     text-align: center;
 }
