@@ -1,14 +1,13 @@
 body {
-    background: #ffeccf9d
+    background: #ffeccf9d;
 }
 
 #banner {
-    width: 100px;
-    height: 450px;
+    width: 750px;
 }
 
 p {
-    font-size: 25px
+    font-size: 25px;
 }
 h1 {
     text-align: center;
