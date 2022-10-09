@@ -33,12 +33,13 @@ nav {
 .bolo {
     width: 350px;
     height: 350px;
-    
-border: 2px solid #000000;{
-border-radius: 10px
-    }   
-    
-    .produtos li {
+}
+
+border: 2px solid #000000;
+border-radius: 10px;
+}
+
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -50,4 +51,4 @@ border-radius: 10px
     border-radius: 10px;
 }
     
-}
+
