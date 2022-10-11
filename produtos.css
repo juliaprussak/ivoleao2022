@@ -9,13 +9,13 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #000000fa;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 header {
-    background: #BBBBBB;
+    background: #f7def2fa;
     padding: 20px 0;
 }
 .caixa {
