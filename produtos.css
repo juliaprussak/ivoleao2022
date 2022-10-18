@@ -34,7 +34,7 @@ nav {
     width: 350px;
     height: 350px;
 }
-
+.borda {
 border: 2px solid #000000;
 border-radius: 10px;
 }
@@ -50,7 +50,8 @@ border-radius: 10px;
     border: 2px solid #000000;
     border-radius: 10px;
 }
-  cupcake{
+
+.cupcake{
      width: 350px;
     height: 350px;
 }
