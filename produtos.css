@@ -15,7 +15,7 @@ nav a {
     text-decoration: none;
 }
 header {
-    background: #f7def2fa;
+    background: #000000fa;
     padding: 20px 0;
 }
 .caixa {
@@ -34,6 +34,12 @@ nav {
     width: 350px;
     height: 350px;
 }
+
+.cupcake {
+    width: 350px;
+    height: 350px;
+}
+
 .borda {
 border: 2px solid #000000;
 border-radius: 10px;
@@ -51,9 +57,4 @@ border-radius: 10px;
     border-radius: 10px;
 }
 
-.cupcake {
-    width: 350px;
-    height: 350px;
-}
-    
 
