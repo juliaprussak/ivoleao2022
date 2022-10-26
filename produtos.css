@@ -12,7 +12,7 @@
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 350px solid black;
+    border: 2px solid black;
     border-radius: 350px;
 }
 
@@ -81,7 +81,7 @@ nav {
 }
 
 borda {
-border: 20px solid #000000;
+border: 400px solid #000000;
 border-radius: 10px;
 }
 
