@@ -31,8 +31,6 @@
     margin-top: 10px;
 }
 
-
-
 header {
     background: #f7e0f3;
 }
@@ -91,20 +89,8 @@ border: 2px solid #000000;
 border-radius: 10px;
 }
 
-.produtos li {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-    vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border: 2px solid #000000;
-    border-radius: 10px;
-}
-
 header{
     backgrond: #BBBBBB;
 }
 
-.
+
