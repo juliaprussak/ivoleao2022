@@ -52,4 +52,14 @@ h1 {
 h4 {
     text-align: center;
     font-size: 25px;
-}    
+}  
+
+display: inline-block;
+	text-align:  center;
+	width:  30%;
+	vertical-align: top;
+	margin:  0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ffffff;
+	border-radius: 10px;
