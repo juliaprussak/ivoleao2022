@@ -33,6 +33,10 @@ nav {
 .bolo {
     width: 350px;
     height: 350px;
+    
+}
+header{
+    backgrond: #BBBBBB
 }
 
 .cupcake {
@@ -57,4 +61,7 @@ border-radius: 10px;
     border-radius: 10px;
 }
 
+header{
+    backgrond: #BBBBBB;
+}
 
