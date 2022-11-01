@@ -40,7 +40,6 @@ nav a:hover {
 }
 
 /*HOME*/
-
 body {
     background: #f8dce8;
 }
@@ -101,4 +100,9 @@ ul {
 .imagembeneficios {
     width: 50%;
     height: 400px;
+}
+
+/*PRODUTOS*/
+body {
+    background: #f8dce8;
 }
